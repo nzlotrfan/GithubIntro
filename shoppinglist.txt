@@ -1,0 +1,6 @@
+Shopping:
+
+Chocolate
+Fruit
+Milk
+Bread
